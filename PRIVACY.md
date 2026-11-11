@@ -8,7 +8,7 @@ Carnet de chauffe ne collecte aucune donnée personnelle. Tout ce que vous saisi
 
 L'application fonctionne sans compte, sans inscription et sans connexion à Internet. Elle ne contient ni publicité, ni outil de mesure d'audience, ni traceur.
 
-Ces règles s'appliquent à l'application Android Carnet de chauffe (identifiant `com.carnetchauffe`), éditée par [nom de l'éditeur].
+Ces règles s'appliquent à l'application Android Carnet de chauffe (identifiant `com.carnetchauffe`), éditée par Charles TALBOT.
 
 ## Données enregistrées sur votre téléphone
 
@@ -66,4 +66,4 @@ Si une version future change la façon dont les données sont traitées (par exe
 
 ## Contact
 
-Pour toute question : [nom de l'éditeur], [adresse e-mail de contact].
+Pour toute question : Charles TALBOT, charles.talbot1@gmail.com.
